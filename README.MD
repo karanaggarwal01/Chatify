@@ -4,7 +4,12 @@
 
 ---
 
-## 🚀 Key Features
+## 🚀 Live Demo
+🔗 https://chatify-wj7o.onrender.com/
+
+---
+
+## ⭐ Key Features
 
 - Secure user authentication using **JWT** and **HTTP-only cookies**
 - Real-time one-to-one messaging with **Socket.io**
@@ -34,16 +39,6 @@
 - Cloudinary (media storage)
 - Resend (emails)
 - Arcjet (API security)
-
----
-
-## 📁 Project Structure (High-Level)
-
-```
-Chatify/
-├── backend/    # REST APIs, Socket.io server, auth & business logic
-└── frontend/   # React application and UI
-```
 
 ---
 
